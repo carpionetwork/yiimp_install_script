@@ -6,7 +6,7 @@
 
 ## Install script for yiimp on Ubuntu Server
 
-USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04, 18.04, 20.*
+USE THIS SCRIPT on a fresh install of Ubuntu Server 16.04, 18.04, 20.*
 
 Installation steps:
 - apt update
