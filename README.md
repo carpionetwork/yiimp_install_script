@@ -4,28 +4,34 @@
 
 ***********************************
 
-## Install script for yiimp on Ubuntu Server 16.04 / 18.04 / 20.* (use Tpruvot's Yiimp)
+## Install script for yiimp on Ubuntu Server 16.04, 18.04, 20.*
 
-USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04 / 18.04 / 20.* !
+USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04, 18.04, 20.*
 
 Connect on your VPS =>
 - apt update
 - apt upgrade
 - reboot
-- adduser pool (pool it's just an example...)
+- adduser pool ((or username of your choice))
 - adduser pool sudo
 - su - pool
 - sudo apt -y install git
+- cd /opt ((or directory of your choice))
 - git clone https://github.com/carpionetwork/yiimp_install_script.git
 - cd yiimp_install_script/
-- bash install.sh (DO NOT RUN THE SCRIPT AS ROOT or SUDO)
+- bash install.sh ((do not run the script as root or sudo))
 - At the end, you MUST REBOOT to finalize installation...
 
-Finish !
-- Go http://xxx.xxx.xxx.xxx or https://xxx.xxx.xxx.xxx (if you have chosen LetsEncrypt SSL). Enjoy !
-- Go http://xxx.xxx.xxx.xxx/AdminPanel or https://xxx.xxx.xxx.xxx/AdminPanel to access Panel Admin
+Web frontend:
+* Go http://xxx.xxx.xxx.xxx
+* https://xxx.xxx.xxx.xxx (if you have chosen LetsEncrypt SSL).
 
-If you are issue after installation (nginx,mariadb... not found), use this script : bash install-debug.sh (watch the log during installation)
+Admin Panel
+* Go http://xxx.xxx.xxx.xxx/AdminPanel
+* https://xxx.xxx.xxx.xxx/AdminPanel 
+
+
+###### If you are issue after installation (nginx,mariadb... not found), use this script : bash install-debug.sh (watch the log during installation)
 
 
 ###### :bangbang: **Kudaraidee Install Script :**
