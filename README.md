@@ -1,4 +1,4 @@
-# Yiimp_install_scrypt v0.2 (update Avril, 2020)
+# Yiimp_install_scrypt v0.2 (update April, 2020)
 
 Site : https://www.xavatar.com
 
@@ -15,7 +15,7 @@ Original Yiimp Installer : https://github.com/cryptopool-builders/multipool_orig
 
 ## Install script for yiimp on Ubuntu Server 16.04 / 18.04 (use Tpruvot's Yiimp)
 
-USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04 / 18.04 !
+USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04 / 18.04 / 20.* !
 
 Connect on your VPS =>
 - apt update
