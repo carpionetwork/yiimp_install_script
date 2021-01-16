@@ -8,7 +8,7 @@
 
 USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04, 18.04, 20.*
 
-Connect on your VPS =>
+Installation steps:
 - apt update
 - apt upgrade
 - reboot
