@@ -1,15 +1,6 @@
-# Yiimp_install_script v0.2 (update April, 2020)
-
-Site : https://www.xavatar.com
-
-Discord : https://discord.gg/zcCXjkQ
-
-TUTO Youtube (16.04 / 18.04 - Without SSL) : https://www.youtube.com/watch?v=qE0rhfJ1g2k
-
-Official Yiimp (used in this script for Yiimp Installation): https://github.com/tpruvot/yiimp
-
-Original Yiimp Installer : https://github.com/cryptopool-builders/multipool_original_yiimp_installer
-
+# Yiimp_install_script 
+* updated January, 2021
+* v0.3 
 
 ***********************************
 
@@ -35,6 +26,7 @@ Finish !
 - Go http://xxx.xxx.xxx.xxx/AdminPanel or https://xxx.xxx.xxx.xxx/AdminPanel to access Panel Admin
 
 If you are issue after installation (nginx,mariadb... not found), use this script : bash install-debug.sh (watch the log during installation)
+
 
 ###### :bangbang: **Kudaraidee Install Script :**
 - Instead Tpruvot's Yiimp, you can use the Kudaraidee's Repo Yiimp : git clone -b Kudaraidee https://github.com/Kudaraidee/yiimp.git
@@ -78,3 +70,15 @@ If this helped you or you feel giving please donate :
 - BTC Donation : 1C1hnjk3WhuAvUN6Ny6LTxPD3rwSZwapW7
 - BCH Donation : 1PqjApUdjwU9k4v1RDWf6XveARyEXaiGUz
 - ETH Donation : 0xc23E6902fF8Cd8878EDADE18Dc49B3505395F0a1
+
+***********************************
+
+Site : https://www.velezcarpio.com
+
+Discord : https://discord.gg/zcCXjkQ
+
+TUTO Youtube (16.04 / 18.04 - Without SSL) : https://www.youtube.com/watch?v=qE0rhfJ1g2k
+
+Official Yiimp (used in this script for Yiimp Installation): https://github.com/tpruvot/yiimp
+
+Original Yiimp Installer : https://github.com/cryptopool-builders/multipool_original_yiimp_installer
